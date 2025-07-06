@@ -17,12 +17,12 @@ Jride is a lightweight ride booking system built using Java and Spring Boot. It 
 
 ## ✅ Core Features
 
-- 👤 Register Passenger
-- 👨‍✈️ Register Driver
-- 📍 Request a Ride (pickup → drop)
-- ✅ Accept / ❌ Reject Ride
-- 🚦 Update Ride Status (`Requested → Accepted → In Progress → Completed`)
-- 📜 View Ride History (for both Driver & Passenger)
+- Register Passenger
+- Register Driver
+- Request a Ride (pickup → drop)
+- Accept / Reject Ride
+- Update Ride Status (`Requested → Accepted → In Progress → Completed`)
+- View Ride History (for both Driver & Passenger)
 
 ---
 ## 🧪 How to Test
